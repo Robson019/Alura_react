@@ -1,5 +1,7 @@
 # Version and Requirements
 
+This project uses node **14.21.3**
+
 - NodeJS and NPM | `sudo apt install nodejs`
 - [Git](https://git-scm.com/download/linux) | `sudo apt install git-all`
 - SASS | `npm install --save-dev sass`
