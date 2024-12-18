@@ -1,3 +1,11 @@
+# Version and Requirements
+
+- NodeJS and NPM | `sudo apt install nodejs`
+- [Git](https://git-scm.com/download/linux) | `sudo apt install git-all`
+- SASS | `npm install --save-dev sass`
+- CSS Modules | `npm install -D typescript-plugin-css-modules`
+- UUIDV4 | `npm i uuid` and `npm i --save-dev @types/uuid`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
